@@ -1,3 +1,15 @@
-# Contemporary Issues In Data
+# Should the US retaliate in response to the suspected Russian hacks of SolarWinds?
+In this short reflection, we explore two differing viewpoints regarding the SolarWinds hack that was ongoing for a full 9 months. The hack offers a great example of the rising importance of technological disputes in the geopolitical theater and may point towards a future where physical conflicts are overshadowed by those of a technological nature.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## The View of the Experts
+In CBS' [Cybersecurity experts say U.S. needs to strike back after SolarWinds hack](https://www.cbsnews.com/news/solarwinds-60-minutes-2021-02-14/), Will Croxton offers a perspective that seems to be supported by cyber security experts and that advocates for quick retaliation, lest further hacks be employed.
+
+Even though we still do not grasp the full extent of the hack, the information that is available is grim, as the hack had not only targeted private clients but also government entities of great national security import, such as The U.S. Treasury Department, Department of Justice, State Department, Energy Department, and the agency that protects and transports the U.S. nuclear arsenal. Cyber security experts, such as Jon Miller, urge elected officials to retaliate in the wake of bleak alternatives, noting that indictments commonly fail to produce any results that could pose an obstacle to the hackers in the future. As such, at least in their views, the only way to stop incoming attacks is define clear boundaries that the US government can enforce to indimidate any would-be assailants.
+
+## The View of the Public
+Yet, the view of the public stands in stark contrast to that of the experts. As described in the National Interest's [American Public Reticent to Retaliate Against SolarWinds Hack](https://nationalinterest.org/feature/american-public-reticent-retaliate-against-solarwinds-hack-176459), the public's opinion on the boundary between cyber attacks and physical attacks spans wider than expected.
+
+In fact, survey experiments show that "the public response to even hypothetical physical attacks on the United States or its interests abroad... is quick to support retaliation". Furthermore, the public does not stand alone in embracing this philosophy, as even the contemporary US president Donald Trump claimed "that the events have been exaggerated in the media and declaring everything 'under control'". Although the ex-president had some outworldy claims, this one seems to be backed by several academics, who note that "hacks akin to SolarWinds are merely intelligence gathering operations. As such, these hacks are acceptable forms of statecraft that fall short of the threshold of an “attack.” From an international law point of view, if cyber operations do not rise to the threshold of a “use of force,” then the impacted state is not granted a subsequent right to self-defense".
+
+## Conclusion
+It seems that the novelty of mass-scale cyberattacks has left its mark on the response to the hack and elected officials need to mve carefuly as they have to balance the risks of national security breaches with the support of not only the wider public, but of other governments who could see any physical retaliation as incitement of violence rather than self-defense.
